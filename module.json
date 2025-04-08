@@ -46,6 +46,6 @@
     }
   ],
   "url": "https://github.com/MishaTarkus/FoundryVTT-Tabbed-Chat-V12log",
-  "manifest": "https://raw.githubusercontent.com/MishaTarkus/FoundryVTT-Tabbed-Chat-V12log/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/MishaTarkus/FoundryVTT-Tabbed-Chat-V12log/master/module.json",
   "download": "https://github.com/MishaTarkus/FoundryVTT-Tabbed-Chat-V12log/releases/latest/download/module.zip"
 }
